@@ -1,0 +1,18 @@
+{
+  "name": "fixed-on-scroll",
+  "main": "fixed-on-scroll.js",
+  "authors": [
+    "Simon Destombes <simon@vercors-net.com>"
+  ],
+  "description": "",
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
