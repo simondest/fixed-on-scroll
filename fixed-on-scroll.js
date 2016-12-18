@@ -25,7 +25,6 @@ require([ 'jquery' ], function($) {
 				});
 			}
 		}
-
 		window.onscroll = scroll;
 	});
 
