@@ -4,7 +4,7 @@
  * Menu fixe quand il arrive en haut de page
  * 
  * <div class="nav-wrapper"> 
- * 	<nav class="navbar-fixed-top fixed-on-scroll">Ici le menu</nav> 
+ * 	<nav class="fixed-on-scroll">Ici le menu</nav> 
  * </div>
  * 
  */
